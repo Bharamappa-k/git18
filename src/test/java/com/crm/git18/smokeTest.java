@@ -8,6 +8,7 @@ public class smokeTest {
 	
 	public void m1() {
 		System.out.println("run antony");
+		System.out.println("mkn.knlknlihlug");
 	}
 	
 	
